@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi there
 
-<!--
-**azhar-alhasan/azhar-alhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Senior Machine Learning Engineer** specializing in **Generative AI**, **Retrieval-Augmented Generation (RAG)** systems, and **MLOps** — building production-grade AI that scales to millions of users.
 
-Here are some ideas to get you started:
+At **IKEA** and **Capgemini**, I’ve led teams designing and deploying **LLM-powered assistants**, **evaluation frameworks**, and **enterprise RAG platforms** across **Azure** and **GCP**.  
+My work has improved automation, accelerated model deployment, and enabled **secure, large-scale AI adoption** for global enterprises.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about bridging **cutting-edge AI research** with **practical, scalable engineering** — from **prompt optimization** and **embedding pipelines** to **Kubernetes-based ML deployments**.
+
+💡 Always exploring what’s next in:
+- Agentic AI systems  
+- LangChain orchestration  
+- Cloud-native model serving
