@@ -1,13 +1,5 @@
 ## 👋 Hi there
 
-I’m a **Senior Machine Learning Engineer** specializing in **Generative AI**, **Retrieval-Augmented Generation (RAG)** systems, and **MLOps** — building production-grade AI that scales to millions of users.
+As a Senior Machine Learning Engineer at IKEA, I lead the development of AI-driven solutions, including virtual shopping assistants and employee co-pilots, to enhance automation across over 30 markets. My contributions include deploying a scalable MLOps evaluation platform that processes over 20 million daily user interactions, ensuring continuous model optimization. 
 
-At **IKEA** and **Capgemini**, I’ve led teams designing and deploying **LLM-powered assistants**, **evaluation frameworks**, and **enterprise RAG platforms** across **Azure** and **GCP**.  
-My work has improved automation, accelerated model deployment, and enabled **secure, large-scale AI adoption** for global enterprises.
-
-I’m passionate about bridging **cutting-edge AI research** with **practical, scalable engineering** — from **prompt optimization** and **embedding pipelines** to **Kubernetes-based ML deployments**.
-
-💡 Always exploring what’s next in:
-- Agentic AI systems  
-- LangChain orchestration  
-- Cloud-native model serving
+With a Master's degree in Embedded and Intelligent Systems from Halmstad University, my expertise spans Generative AI, large language models (LLM), and retrieval-augmented generation (RAG). I aim to bridge cutting-edge AI research with practical engineering to create scalable, production-grade AI solutions.
